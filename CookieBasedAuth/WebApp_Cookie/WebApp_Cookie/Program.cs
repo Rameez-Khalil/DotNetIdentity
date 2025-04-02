@@ -3,6 +3,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
+builder.Services.AddAuthentication()
+    .AddCookie("MyCookieAuthentication", options =>
+    {
+        options.Cookie.Name = "MyCookieAuthentication"; 
+    });  //handles encryption, serialization deserialization etc.
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
