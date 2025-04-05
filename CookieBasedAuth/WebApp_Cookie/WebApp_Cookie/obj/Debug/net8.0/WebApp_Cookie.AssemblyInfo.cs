@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApp_Cookie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24166516288bb64a7c2cc55f3f6fd176fff80735")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6505c3dfa911837a9c93e9e2bc8ba76d2d0910f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApp_Cookie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApp_Cookie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
