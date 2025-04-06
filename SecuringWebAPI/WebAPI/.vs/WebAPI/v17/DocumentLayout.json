@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03F1DD1A-32FE-441C-B2C4-30DD4C622122}|WebAPI\\WebAPI.csproj|c:\\users\\lenovo\\desktop\\coding\\development\\dotnetidentity\\securingwebapi\\webapi\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -42,18 +42,17 @@
               "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T13:53:43.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T13:53:43.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T13:44:04.136Z",
               "EditorCaption": ""
@@ -68,31 +67,30 @@
               "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T13:29:18.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T13:29:18.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T13:29:12.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Development\\DotNetIdentity\\SecuringWebAPI\\WebAPI\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T13:28:25.511Z",
               "EditorCaption": ""

@@ -28,7 +28,8 @@ namespace WebAPI.Controllers
                 var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, "admin"),
-                new Claim(ClaimTypes.Email, "admin@example.com")
+                new Claim(ClaimTypes.Email, "admin@example.com"), 
+                new Claim("department", "HR") //only the HR can access that.
             };
 
 
